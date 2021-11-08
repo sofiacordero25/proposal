@@ -21,8 +21,7 @@ a winner in a battle against the computer, which chooses a character randomly to
 battling.
 
 
-## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed 
-project would relate to 1051, and which aspect(s) would relate to the other course?
+## If planning to combine 1051's final project with another course's final project, with which other course? And which aspect(s) of your proposed project would relate to 1051, and which aspect(s) would relate to the other course?
 
 I will not be combining this project with another course's final project.
 
@@ -34,8 +33,7 @@ Matthew Burkhiemer-tui84519@temple.edu-Sai Shi
 Nazli Iclal Karaman-tuo36633@temple.edu-Sai Shi
 
 
-## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount 
-of time than you hope.
+## In the world of software, most everything takes longer to implement than you expect. And so it's not uncommon to accomplish less in a fixed amount of time than you hope.
 
 
 ### In a sentence (or list of features), define a GOOD outcome for your final project. I.e., what WILL you accomplish no matter what?
@@ -43,8 +41,7 @@ of time than you hope.
 We will create a functional Pokedex and simulator that battles the user's chosen chracter against a computer generated randomly selected character.
 
 
-### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final 
-project's deadline?
+### In a sentence (or list of features), define a BETTER outcome for your final project. I.e., what do you THINK you can accomplish before the final project's deadline?
 
 A better outcome would include a more detailed and larger pokedex for the user to choose from.
 
@@ -55,8 +52,7 @@ The best outcome for our project would include a more complex graphic for the ba
 characters in the battle, but it would be awesome to develop a greater graphic for this part.
 
 
-## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with 
-one of two classmates, who will do what?
+## In a paragraph or more, outline your next steps. What new skills will you need to acquire? What topics will you need to research? If working with one of two classmates, who will do what?
 
 For our final project, we will need to learn how to import images and graphics into our code and we will need to do a lot of research on Pokemon characters to 
 make a complete and detailed Pokedex. Because Matt knows a lot about Pokemon, he will be leading the research and organization of the characters, while me and 
